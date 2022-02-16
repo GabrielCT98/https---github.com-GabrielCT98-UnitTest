@@ -1,0 +1,13 @@
+/.vscode
+/CalculatorLib
+/CalculatorLibUnitTests
+/Chapter04.code-workspace
+/Debugging
+/Instrumenting
+/MyRootLib
+/MyRootLibTest
+/PrimeFactors.code-workspace
+/PrimeFactorsApp
+/PrimeFactorsLib
+/PrimeFactorsTests
+/WritingFunctions

@@ -1,0 +1,12 @@
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\bin\Debug\net6.0\KeanLibrary.deps.json
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\bin\Debug\net6.0\KeanLibrary.dll
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\bin\Debug\net6.0\KeanLibrary.pdb
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.csproj.AssemblyReference.cache
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.AssemblyInfoInputs.cache
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.AssemblyInfo.cs
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.dll
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\refint\KeanLibrary.dll
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\KeanLibrary.pdb
+C:\Users\mike-\OneDrive\Escritorio\Chapter04\KeanLibrary\obj\Debug\net6.0\ref\KeanLibrary.dll
